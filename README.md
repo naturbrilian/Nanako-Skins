@@ -7,7 +7,7 @@ Actually i make this skin for my private use, because someone asked this skin i 
 This skin reference from [Project FX_ by FrostX00001101](https://www.deviantart.com/frostx00001101/art/AIMP-4-Skin-Project-FX-761347205) and Raafi G
 
 ## Tools before
-+ v0.0.1 Prototype
++ v0.0.1 Prototype until v0.0.4
 
 using skin editor v4.60
 
@@ -20,6 +20,10 @@ using skin editor v4.60
 - V.0.0.1 (ML Library not Changed)
 
 ![Preview Old Skin](Aset/1.jpg)
+
+- V.0.0.4 (only base color changed)
+
+![Preview Old Skin Prototype](Aset/4.jpg)
 
 - V.1.1.4
 
