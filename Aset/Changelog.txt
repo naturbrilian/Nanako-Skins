@@ -1,0 +1,33 @@
+
++v1.1.1
++ Convert & re design from v4 base skin to v5
++ Accent Color options
++ Rounded Corner support
+- Waveform Options delete & move using script (control via settings) go to Options > interface  > Skin (check waveform display or disable by uncheck) on design control player 2nd
+
+V.1.1.2
+- Fix Seekbar on 2nd Design
+* Reposition Title Artist field on Now Playing Design 1st
+
+V.1.1.3
++ QFI & Mini player options was added
+* You can switch artist biography to Comment & Timestamp (playlist & library options)
+
+V.1.1.4
++ Add mini mode (Reference from skin-musicexplorer by zawa-ch.), right click on maximize for change this mode
++ Add Mini Player Design 3 (Design from Soundmax V5)
++ Lyrics floating when you minimize to tray (Design from Mei Music Mod)
+* Background coming soon (or you can add by yourself)
+
+v1.1.5
+* Change some button icons
+* DropWheel design has been update
+* Mini Player Design 3 has been update
++ Add background
++ Add design now playing top (inspired from pinterest)
+
+v.1.1.6
+* Fixing animation effect when you playing song
+* Final
+
+
