@@ -1,5 +1,4 @@
-
-+v1.1.1
+v1.1.1 
 + Convert & re design from v4 base skin to v5
 + Accent Color options
 + Rounded Corner support
@@ -14,20 +13,17 @@ V.1.1.3
 * You can switch artist biography to Comment & Timestamp (playlist & library options)
 
 V.1.1.4
-+ Add mini mode (Reference from skin-musicexplorer by zawa-ch.), right click on maximize for change this mode
-+ Add Mini Player Design 3 (Design from Soundmax V5)
-+ Lyrics floating when you minimize to tray (Design from Mei Music Mod)
++ Add mini mode
 * Background coming soon (or you can add by yourself)
+* Lyrics floating when you minimize to tray coming soon
 
-v1.1.5
-* Change some button icons
-* DropWheel design has been update
-* Mini Player Design 3 has been update
-+ Add background
-+ Add design now playing top (inspired from pinterest)
+V.1.1.5 (private project)
++ Added background
++ DropWheel design has been update
++ Resized support when you use mode split window
 
-v.1.1.6
-* Fixing animation effect when you playing song
-* Final
-
-
+V.1.1.6
+* Fixed the animation transitions on nowplaying
++ Add the icons button on the separate background
++ Add Form Shadow Options (except lyrics floating mode and DropWheel)
+- Equalizer option has canceled for some reason, you can keep using equalizer by clicking eq and sound effect option was appear
