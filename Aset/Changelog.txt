@@ -27,3 +27,13 @@ V.1.1.6
 + Add the icons button on the separate background
 + Add Form Shadow Options (except lyrics floating mode and DropWheel)
 - Equalizer option has canceled for some reason, you can keep using equalizer by clicking eq and sound effect option was appear
+
+V.1.1.7
++ Add equalizer window (only background version)
+
+V.1.1.8
++ Add Mayuri Kosaka, Kita Ikuyo, and Nashiro Momiji (Background Version)
++ Add button play styler (circle and rounded)
+- Controllbar and Now Playing fix (both version)
+- Delete MainForm options
+- Fix bug
