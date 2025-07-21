@@ -25,9 +25,9 @@ using skin editor v4.60
 
 ![Preview Old Skin Prototype](Aset/4.jpg)
 
-- V.1.1.4
+- V.1.1.8
 
-![Preview New Skin](Aset/3.jpg)
+![Preview New Skin](Aset/image-1.png)
 
 ## All resource of the skin
 All resource on this skin using from [Google Fonts](https://fonts.google.com)
