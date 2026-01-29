@@ -34,11 +34,14 @@ This skin is a modified version of the Soundmax V6 skin template by Desonime & r
         - AIMP Skin Editor 4.00
      - PC / Laptop
         - Main Laptop
-            -
+            - Hp Laptop 14s-dk0xxx
+            - Operating System: Windows 11 24h2
+            - RAM 8GB
+            - CPU: Ryzen 5 3500u
         - Second Laptop
             - Aspire E5-421
             - Operating System: Linux Mint 22.1 Xia
-            - RAM 4GB
+            - RAM 4GB ddr3
             - CPU: AMD E2-6110
 5. Creator
      - Nanako
